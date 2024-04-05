@@ -2,13 +2,13 @@
 #-------------------------------
 # General Site Settings
 
-title: Kross
-logo:
-author: themefisher
+title: Jinyoung
+logo: 
+author: jinyoung IM
 description: this is meta description
-email: steve.fruits@email.com
-phone: +880 2544 658 256
-address: 125/A, CA Commercial Area, California, USA
+email: jinyoung1226@ajou.ac.kr
+phone: 010-2751-3262
+address: 117-7 Uman-dong, Paldal-gu, Suwon-si, Gyeonggi-do
 copyright: Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Getjekyllthemes](https://getjekyllthemes.com)
 
 menu:
@@ -36,11 +36,11 @@ disqus-identifier: # Add your shortname for Disqus Comment. For example mr-brown
 # Hero Section
 
 hero:
-  hero-title: Hi! I’m <br> Christoher <br> UX designer
+  hero-title: Hi! I’m <br> Jinyoung <br> new developer
 
 social:
-  - { icon: "ti-facebook", link: "#" }
-  - { icon: "ti-instagram", link: "#" }
+  - { icon: "ti-github", link: "https://github.com/jinyoung1226/jinyoung1226.github.io" }
+  - { icon: "ti-instagram", link: "https://www.instagram.com/jyoungi_1226/" }
   - { icon: "ti-dribbble", link: "#" }
   - { icon: "ti-twitter", link: "#" }
 
@@ -48,7 +48,7 @@ social:
 # About (Section and Page)
 
 # About Section
-blurb: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+blurb: Hello, I am Jinyoung Im, majoring in the Department of E-Business and Department of Artificial Intelligence Convergence at Ajou University. Recently, I have been focusing on web development. If you are curious about me, please click below!
 
 blurb-btn-link: "/about"
 blurb-btn-name: know more
@@ -68,6 +68,8 @@ work-process:
   - title: "Deliver"
     icon: "assets/images/icons/print.png"
     content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+
+    
 
 # My Team Section
 team:
