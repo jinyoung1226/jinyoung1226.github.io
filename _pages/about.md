@@ -83,20 +83,6 @@ sexy IT team leader </b></div>
 
 ---
 
-### Awards
-
-<div style = "font-size:21px"><e>[suburbs]</e></div>
-
-<div style='margin : 0.8rem 0'><b style='font-size : 20px'>
-2020.12.29 <br>2020 2nd Sports Comprehensive Data Utilization Contest Idea Category Excellence Award
-</b></div>
-
-<div style='margin : 0.8rem 0'><b style='font-size : 19px'>2023.08.20 <br>Participated in financial app service idea contest</b></div>
-
-<div style = "font-size:21px"><e>[On campus]</e></div>
-
-<div style='margin : 0.8rem 0'><b style='font-size : 19px'>2023.11.09 <br>2023 31st Business School Academic Festival ‘B-cube’ Grand Prize</b></div>
-
 ### Internal and external activities
 
 <div style='margin : 0.8rem 0'><b style='font-size : 20px'>
