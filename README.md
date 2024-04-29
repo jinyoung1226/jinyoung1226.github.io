@@ -1,6 +1,6 @@
 # Kross Jekyll
 
-Kross Jekyll Creative Portfolio Template ported from [Kross HTML Template](https://themefisher.com/products/kross/)
+Jinyoung Portfolio(https://jinyoung1226.github.io/)
 
 ## Demo
 
